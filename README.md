@@ -1,4 +1,4 @@
-# hackathonFeb2026
+# CTRL+HACK+DEL Hackathon 
 
 🥘 Potluckio!
 Simplifying party planning, one dish at a time.
